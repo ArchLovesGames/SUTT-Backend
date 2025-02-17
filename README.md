@@ -9,8 +9,7 @@ You are tasked with creating a Python program to parse a provided Excel spreadsh
 containing the mess menu and converting its contents into Python objects. The resulting
 Python objects must then be serialized into a JSON file.
 
-Task Instructionl
-S0 Excel Sheet parsing: You are provided with an Excel spreadsheet that contains the mess
+Excel Sheet parsing: You are provided with an Excel spreadsheet that contains the mess
 menu with different days in different columns. You have to read and parse that data using
 either Pandas or Openpyxl (both are python libraries used extensively for excel and other
 data manipulation). Ensure that you handle any potential issues, such as missing data or
